@@ -1,0 +1,57 @@
+{
+    "Tipstrik": [
+        {
+            "judul": "PC OverHeat :",
+            "isi": "bersihkan kipas pc anda dan yang ke- dua priksa pasta pada prosesor apa sudah habis jika sudah habis kembali berikanpasta di atasnya  "
+        },
+        {
+            "judul": "Mengatasi Game/ Aplikasi hasStoped : ",
+            "isi": "Megatsi Game/ Aplikasi : -refresh komputer atau laptop anda setelah menyala"
+        },
+        {
+            "judul": "Mengatasi WiFi yang tidak bisa di Aktifkan/Hidup di Laptop win 7/8/8.1/10 :",
+            "isi": "adalah dengan masuk ke device manager. Silahkan tekan tombol Windows + R untuk membuka kotak Run. Ketikkan devmgmt.msc di kotak tersebut lalu enter. Akan terbuka Device Manager yang anda inginkan. Silahkan cari Network adapters lalu ke Qualcomm Atheros AR956x Wireless Network Adapter (kadang berbeda versi Wireless Network Adapternya). Silahkan anda klik kanan pilih Enable. Lihat apa yang terjadi! icon wifi yang tadinya bergambar kotak dengan tanda silang kini telah berganti menjadi icon gambar jaringan bertanda silang. Artinya wifi di laptop milik anda kini telah dapat diaktifkan kembali "
+
+        },
+        {
+            "judul": "Menampilkan file yang terhapus dengan Windows defender windows : ",
+            "isi": "Hal yang pertama kali anda lakukan adalah dengan membuka terlebih dahulu windows Defender tersebut sehingga anda akan berada pada tampilan Home aplikasi. Silahkan pindah ke tab menu History lalu pindahkan bulatan ke All detected items yang artinya anda akan melihat segala program yang terdeteksi yang kiranya ingin anda izinkan berjalan diperangkat anda. Kemudian klik kotak View details sehingga anda akan akan diperlihatkan semua program yang dideteksi tersebut. Kini tinggal anda pilih pilih saja program yang anda ingin izinkan kembali. Pada program program tersebut akan terlihat Level berbahaya, Tanggal dideteksi, tindakan yang dilakukan serta metode deteksi. Anda perhatikan saja tanggal program yang bersamaan dengan program dihapus, itulah program anda Disini anda harus berhati hati saat membangkitkan program. Jangan sampai salah membangkitkan karena bisa saja program virus yang anda bangkitkan tersebut, bukan program yang anda inginkan. Pada kasus saya ini, tak ada program yang dapat saya contohkan melalui screenshot, namun alurnya sudah sesuai. Untuk mengizinkan program yang anda maksud, silahkan pilih program tersebut lalu tekan tombol Allow item seperti pada gambar yang saya berikan dibawah ini. Anda perhatikan angka dan tandah panah serta kotak (box) yang telah saya tandai."  
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        },
+        {
+            "judul": "John",
+            "isi": "john@gmail.com"
+        }
+    ]
+}
