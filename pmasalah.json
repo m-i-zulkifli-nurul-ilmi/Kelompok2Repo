@@ -2,75 +2,59 @@
     "pmasalah": [
         {
             "judul": "Komputer tidak mau menyala sama sekali :",
-            "isi": "Penyebab : Tegangan Listrik tidak masuk ke power supply \\n Solusi : Periksa dan perbaiki kabel anda yang menghubungkan dari listrik ke power supply. Kalau belum bisa ulangi lagi, pastikan bahwa tegangan listrik bisa masuk ke power supply anda."
+            "isi": "Penyebab : Tegangan Listrik tidak masuk ke power supply. Solusi : Periksa dan perbaiki kabel anda yang menghubungkan dari listrik ke power supply. Kalau belum bisa ulangi lagi, pastikan bahwa tegangan listrik bisa masuk ke power supply anda."
         },
         {
             "judul": "Tegangan masuk power supply, tetapi lampu indicator cpu, indicator harddisk maupun lampu indicator monitor tidak menyala : ",
-            "isi": "Penyebab : Tegangan listrik tidak masuk ke motherboard anda\\n Solusi : Bila berhasil menyalakan kipas power supply, tetapi belum menyala LED CPU, maka anda harus pastikan dan perbaiki posisi konektor power ke motherboard, karena jelas bahwa tegangan listrik tidak sampai ke motherboard. Anda juga harus memeriksa kabel power switch apakah sudah terhubung dengan benar ke pin pada motherboard."
+            "isi": "Penyebab : Tegangan listrik tidak masuk ke motherboard anda. Solusi : Bila berhasil menyalakan kipas power supply, tetapi belum menyala LED CPU, maka anda harus pastikan dan perbaiki posisi konektor power ke motherboard, karena jelas bahwa tegangan listrik tidak sampai ke motherboard. Anda juga harus memeriksa kabel power switch apakah sudah terhubung dengan benar ke pin pada motherboard."
         },
         {
             "judul": "Power (tegangan listrik) bisa masuk ke motherboard, indicator monitor menyala, namun tampilan monitor kosong (blank).",
-            "isi": "Penyebab : Hubungan pendek antara motherboard dan cashing, Processor tidak terpasang dengan benar pada soketnya, Pemasangan RAM kurang sempurna, Pemasangan Card Monitor kurang sempurna, Pemasangan kabel monitor kurang sempurna.\\n Solusi : Periksa kembali pemasangan motherboard anda, pastikan antara motherboard dan cashing sudah terpasang media isolator yang bisa menghambat hubungan pendek antara motherboard dan cashing. Biasanya sudah disediakan ketika kita membeli motherboard, Periksa dan pastikan apakah processor sudah terpasang dengan sempurna ke dalam soketnya. Kemudian periksa juga jumper CPU, untuk memastikan kalau frekuensi CPU pada jumper secara benar, lihat buku manual motherboard anda, Tekan kembali perlahan-lahan RAM pada soket motherboard, agar RAM tertanam sempurna pada soket motherboard. Atau cabut kembali RAM dan bersihkan dengan cara mengamplas secara pelan-pelan semua kaki atau pin dari RAM tersebut. Menurut pengalaman saya, pin-pin pada RAM kotor atau sedikit berkarat bisa menyebabkan gangguan, Langkahnya sama dengan RAM, pastikan card monitor telah menempati soket pada motherboard dengan sempurna. Atau lepas kembali card monitor pada mainboard kemudian bersihkan kaki-kakinya, kalu sudah tanamkan kembali card monitor anda pada soket motherboard, Periksa kembali kabel monitor yang menghubungkan antara VGA Card dan monitor. Pastikan bahwa pin-pin kabel monitor terpasang sempurna pada VGA Card. Kencangkan baut kabel monitor ke VGA card."
+            "isi": "Penyebab : Hubungan pendek antara motherboard dan cashing, Processor tidak terpasang dengan benar pada soketnya, Pemasangan RAM kurang sempurna, Pemasangan Card Monitor kurang sempurna, Pemasangan kabel monitor kurang sempurna. Solusi : Periksa kembali pemasangan motherboard anda, pastikan antara motherboard dan cashing sudah terpasang media isolator yang bisa menghambat hubungan pendek antara motherboard dan cashing. Biasanya sudah disediakan ketika kita membeli motherboard, Periksa dan pastikan apakah processor sudah terpasang dengan sempurna ke dalam soketnya. Kemudian periksa juga jumper CPU, untuk memastikan kalau frekuensi CPU pada jumper secara benar, lihat buku manual motherboard anda, Tekan kembali perlahan-lahan RAM pada soket motherboard, agar RAM tertanam sempurna pada soket motherboard. Atau cabut kembali RAM dan bersihkan dengan cara mengamplas secara pelan-pelan semua kaki atau pin dari RAM tersebut. Menurut pengalaman saya, pin-pin pada RAM kotor atau sedikit berkarat bisa menyebabkan gangguan, Langkahnya sama dengan RAM, pastikan card monitor telah menempati soket pada motherboard dengan sempurna. Atau lepas kembali card monitor pada mainboard kemudian bersihkan kaki-kakinya, kalu sudah tanamkan kembali card monitor anda pada soket motherboard, Periksa kembali kabel monitor yang menghubungkan antara VGA Card dan monitor. Pastikan bahwa pin-pin kabel monitor terpasang sempurna pada VGA Card. Kencangkan baut kabel monitor ke VGA card."
         },
         {
             "judul": "Harddisk Tidak Terdeteksi",
-            "isi": "Penyebab : Kabel Hardisk tidak terpasang dengan benar, Kabel Harddisk rusak, Kabel Power tidak terpasang dengan benar, Hardisk memang rusak\\n Solusi : Periksa dan pastikan kembali kabel harddisk yang menghubungkan soket motherboard dengan hardisk. Kalau perlu cabut kembali dan pasangkan secara tepat dan benar kabel tersebut. Pastikan juga kabel power hardisk sudah terpasang dengan bena. Langkah di atas kalau sudah anda lakukan dengan benar, tetapi masih saja harddisk anda tidak terdeteksi, anda bisa menukar dahulu kabel harddisk yang lain. Ada kemungkinan kabel anda yang bermasalah. Penggantian kabel sudah anda lakukan dan masih juga hardisk tidak terdeteksi, maka ada indikasi bahwa harddisk anda yang mengalami kerusakan, sehingga anda perlu mengganti harddisk yang lain."
+            "isi": "Penyebab : Kabel Hardisk tidak terpasang dengan benar, Kabel Harddisk rusak, Kabel Power tidak terpasang dengan benar, Hardisk memang rusak Solusi : Periksa dan pastikan kembali kabel harddisk yang menghubungkan soket motherboard dengan hardisk. Kalau perlu cabut kembali dan pasangkan secara tepat dan benar kabel tersebut. Pastikan juga kabel power hardisk sudah terpasang dengan bena. Langkah di atas kalau sudah anda lakukan dengan benar, tetapi masih saja harddisk anda tidak terdeteksi, anda bisa menukar dahulu kabel harddisk yang lain. Ada kemungkinan kabel anda yang bermasalah. Penggantian kabel sudah anda lakukan dan masih juga hardisk tidak terdeteksi, maka ada indikasi bahwa harddisk anda yang mengalami kerusakan, sehingga anda perlu mengganti harddisk yang lain."
         },
         {
             "judul": "CD ROM Tidak Terdeteksi",
-            "isi": "Penyebab : Kabel CD ROM tidak terpasang dengan baik dan benar, Kabel CD ROM rusak, Kabel Power tidak terpasang dengan benar, CD ROM kemungkinan rusak \\n Solusi : Periksa dan pastikan kembali kabel CD ROM yang menghubungkan soket motherboard. Kalau perlu cabut kembali dan pasangkan secara tepat dan benar kabel tersebut., Pastikan juga kabel power CD ROM sudah terpasang dengan benar, Langkah di atas kalau sudah anda lakukan dengan benar, tetapi masih saja CD ROM anda tidak terdeteksi, anda bisa menukar dahulu kabel CD ROM yang lain. Ada kemungkinan kabel anda yang bermasalah., Penggantian kabel sudah anda lakukan dan masih juga CD ROM tidak terdeteksi, maka ada indikasi bahwa CD ROM anda yang mengalami kerusakan, sehingga anda perlu mengganti CD ROM yang lain."
+            "isi": "Penyebab : Kabel CD ROM tidak terpasang dengan baik dan benar, Kabel CD ROM rusak, Kabel Power tidak terpasang dengan benar, CD ROM kemungkinan rusak  Solusi : Periksa dan pastikan kembali kabel CD ROM yang menghubungkan soket motherboard. Kalau perlu cabut kembali dan pasangkan secara tepat dan benar kabel tersebut., Pastikan juga kabel power CD ROM sudah terpasang dengan benar, Langkah di atas kalau sudah anda lakukan dengan benar, tetapi masih saja CD ROM anda tidak terdeteksi, anda bisa menukar dahulu kabel CD ROM yang lain. Ada kemungkinan kabel anda yang bermasalah., Penggantian kabel sudah anda lakukan dan masih juga CD ROM tidak terdeteksi, maka ada indikasi bahwa CD ROM anda yang mengalami kerusakan, sehingga anda perlu mengganti CD ROM yang lain."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "ketika komputer dinyalakan terdengar bunyi beep 1 panjang dan 2 pendek",
+            "isi": "Penyebab : VGA card tidak terpasang dengan baik. Solusi : Caranya sama seperti yang sudah saya kemukakan sebelumnya, yaitu pastikan kembali VGA card terpasang dengan sempurna pada soket motherboard. Anda bisa melepas kembali VGA card monitor pada mainboard kemudian bersihkan kaki-kakinya, kalau sudah tancapkan kembali VGA card anda pada soket motherboard."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Terdengar bunyi beep 1 panjang dan 3 pendek",
+            "isi": "Penyebab : Card monitor (VGA card) tidak terpasang sempurna. Solusi : Pastikan VGA Card terpasang dengan benar, langkahnya sama seperti penanganan di atas. Yaitu bisa melepas dan membersihkan serta memasang kembali dengan benar."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Terdengar bunyi beep terus menerus",
+            "isi": "Penyebab: Memory (RAM) tidak terpasang dengan sempurna. Solusi : Pastikan RAM sudah terpasang dengan baik, cara penanganannya juga sudah saya uraikan di atas. Yaitu bisa melepas kembali RAM dari soket dan membersihkan debu atau karat yang berada di kaki atau pin RAM anda."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Berbunyi beep terus-menerus dengan nada tinggi",
+            "isi": "Penyebab : Processor tidak terpasang sempurna. Solusi : Pastikan processor anda terpasang dengan sempurna pada soket processor motherboard anda. Perlu anda ketahui bahwa bunyi beep bisa berbeda-beda setiap type dan jenis motherboard. Bunyi beep di atas adalah salah satu contoh kode kesalahan pada motherboiard Award BIOS. Jadi anda bisa melihat buku manual dari motherboard milik anda masing-masing untuk memastikan kode beep tersebut. Contoh di atas sebagai ilustrasi cara penanganan saja."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Komputer bisa booting, tetapi speed (kecepatan) processor tidak sesuai",
+            "isi": "Penyebab : Pemasangan jumper tidak tepat . Solusi : Periksan dan pastikan jumper frekuensi processor dengan benar. Anda juga bisa melihat buku manual (petunjuk) dari motherboard, sehingga bisa mengatur frekuensi processor dengan benar."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Keyboard tidak terdeteksi",
+            "isi": "Penyebab : Pemasangan kabel kurang tepat . Solusi : Periksa dan pastikan kabel terpasang dengan benar pada colokan cpu, amati apakah ada pin yang tidak masuk pada tempatnya. Ini bisa terjadi karena kita memasang kabelnya secara terburu-buru dan dipaksa masuk, menyebab ada pin kabel yang bengkok dan tidak masuk pada tempatnya. Apabila menggunakan keyboard USB, anda bisa memindah pada slot usb yang lain."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Komputer sering “Hang”",
+            "isi": "Penyebab : RAM tidak sesuai (cocok) . Solusi : Buka dan amati RAM anda, jika menggunakan dua RAM pastikan keduanya menggunakan merek dan tipe yang sama. Jika keduanya tidak sama, gantilah RAM dengan merek dan tipe yang sama."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Gagal Masuk Bios",
+            "isi": "Penyebab : Lupa Pasword . Solusi : Mencoba dengan password bios default dari produsen. Ada beberapa produsen motherboard dengan paswordnya adalah “AMI” atau “AWARD” Kalau Pasword default  tetap gagal, maka langkah selanjutnya anda harus mencabut battery cmos, fungsinya adalah untuk membuang atau menghapus data yang tersimpan di memory, dan kembali pada defaultnya, salah satunya adalah password tidak ada lagi."
         },
         {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
-        },
-        {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
-        },
-        {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
-        },
-        {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
-        },
-        {
-            "judul": "Harddisk Tidak Terdeteksi",
-            "isi": ""
+            "judul": "Setting jam Bios selalu berubah ke 00.00",
+            "isi": "Penyebab : Batteray Cmos low. Solusi : Anda disarankan untuk mengganti batteray Cmos yang baru"
         }
         
     ]
